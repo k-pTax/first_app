@@ -21,3 +21,5 @@
 
 en:
   hello: "Hello world"
+  precompile_assets: true  # precompile assets when asset changes detected.
+  precompile_assets: false # disable asset compilation.
